@@ -32,5 +32,7 @@ Es werden die Listen beider Dateien separat sortiert (das kann weggelassen werde
 
 ## Testdaten:
 Das folgende Tool erzeugt per Zufallsgenerator Testdaten. Aufruf:
+```
 php -f gen-input.php [Output-File] [Anzahl der zu erzeugenden Intervalle]
+```
 Beide Parameter sind optional, Default-Werte sind input.json und 30
