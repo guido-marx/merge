@@ -1,4 +1,4 @@
-#!/usr/local/pd-admin2/bin/php-7.3-cli
+#!/usr/bin/php
 <?php
 
 // Dateiname für Ergebnis setzen
